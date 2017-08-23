@@ -1,1 +1,1 @@
-A universal boilerplate based on react, react-redux, react-router and antd for web.
+A universal boilerplate based on react,react-router,redux,redux-saga and antd for web.
